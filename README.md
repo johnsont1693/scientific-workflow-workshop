@@ -65,7 +65,7 @@ python scripts/validate.py
 
 Use `python3` on systems where that is the Python 3 command, or `py -3` on Windows when appropriate. Verify the interpreter is Python 3.10+. GitHub Actions also runs validation on pull requests when enabled; if Actions is unavailable, record local results and the limitation in the pull request. These tests execute Python only; SAS/R consistency and scientific validity require human review and any approved runtime checks.
 
-## Workshop paths
+## Workshop paths (I edited this)
 
 - [Foundations browser lab](workshop/01-foundations-browser-lab.md)
 - [VS Code Copilot Agent mode and pull-request review lab](workshop/02-copilot-vscode-agent-lab.md)
