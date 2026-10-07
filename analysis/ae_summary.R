@@ -3,7 +3,7 @@
 adae <- read.csv("data/synthetic_adae.csv", stringsAsFactors = FALSE)
 
 ae_summary <- adae[
-  adae$AESEV == "SEVERE",
+  adae$AESEV %in% c("SEVERE", "LIFE THREATENING"),
   c("USUBJID", "AETERM", "AESEV")
 ]
 
