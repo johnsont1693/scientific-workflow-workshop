@@ -1,3 +1,5 @@
+Thomas edited this file
+
 # Scientific workflow GitHub workshop
 
 This synthetic repository supports two workshops:
