@@ -9,4 +9,4 @@ The current severe-only requirement produces two records:
 | 007 | Sepsis | SEVERE |
 Expected record count: **2**
 
-If the requirement changes, this file must be updated and reviewed with the implementation and automated tests.
+If the requirement changes, this file must be updated and reviewed with the implementation and automated tests. fixed
