@@ -8,7 +8,7 @@ This synthetic repository supports two workshops:
 The example follows a small adverse-event summary through requirements, code, tests, and human-controlled pull requests. Foundations uses GitHub.com; the advanced lab uses GitHub Copilot **Agent mode in VS Code** to plan and edit a local checkout. Copilot pull-request code review is optional where enabled, with human review always required.
 
 This is an independent teaching repository. It is not affiliated with, sponsored by, or approved by any company, research sponsor, healthcare organization, or regulatory body.
-
+ttest 
 ## Choose how to use the workshop
 
 The owned reference is [johnsont1693/scientific-workflow-workshop](https://github.com/johnsont1693/scientific-workflow-workshop). It is a **private, read-only reference for learners**: authorized read access is required to view or clone it. Read access does not grant permission to push, create issues, or open exercise pull requests there.
