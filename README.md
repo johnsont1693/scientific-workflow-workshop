@@ -1,4 +1,4 @@
-# Scientific workflow GitHub workshop
+check# Scientific workflow GitHub workshop
 
 This synthetic repository supports two workshops:
 
