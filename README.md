@@ -1,7 +1,9 @@
 Contact: Thomas Johnson thjohnson@microsoft.com
 
 # Scientific workflow GitHub workshop
-
+### WOW @@@
+@@@ WOW ###
+### WOW @@@
 This synthetic repository supports two workshops:
 
 1. **GitHub Foundations for Scientific Work**
