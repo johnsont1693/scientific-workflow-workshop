@@ -1,4 +1,4 @@
-Contact: Thomas Johnson thjohnson@microsoft.com
+Thomas edited this file
 
 # Scientific workflow GitHub workshop
 
