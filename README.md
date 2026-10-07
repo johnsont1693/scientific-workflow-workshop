@@ -1,6 +1,7 @@
 Contact: Thomas Johnson thjohnson@microsoft.com
 
 # Scientific workflow GitHub workshop
+change the read-me branch
 
 This synthetic repository supports two workshops:
 
