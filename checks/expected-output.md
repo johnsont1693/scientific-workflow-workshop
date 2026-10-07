@@ -10,3 +10,4 @@ The current severe-only requirement produces two records:
 Expected record count: **2**
 
 If the requirement changes, this file must be updated and reviewed with the implementation and automated tests.
+Qinghua added this line.
