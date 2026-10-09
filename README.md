@@ -1,5 +1,7 @@
 Contact: Thomas Johnson thjohnson@microsoft.com
 
+
+
 # Scientific workflow GitHub workshop
 
 I am making this change
@@ -82,3 +84,4 @@ Use `python3` on systems where that is the Python 3 command, or `py -3` on Windo
 Adapted from the public upstream [abrown152/scientific-workflow-workshop](https://github.com/abrown152/scientific-workflow-workshop). No upstream license was detected; this attribution does not grant a license or establish redistribution rights. Confirm permission before distributing copies beyond authorized use.
 
 I edited this file.
+
